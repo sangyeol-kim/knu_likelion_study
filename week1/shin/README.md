@@ -76,7 +76,7 @@ variable
 
 ### 정체성, 동질성, 별명
 동일한 객체를 참조하는 사례
-```
+```python
   byeon = {'name': 'Seongyun', 'born': 1990}
   kyle = byeon
   kyle is byeon
@@ -89,7 +89,7 @@ variable
 ```
   
 값은 같으나 정체성이 다른 사례
-```
+```python
   byeonzzi = {'name': 'Seongyun', 'born': 1990, 'age': 29}
   byeonzzi == byeon
   >>> True
@@ -155,7 +155,7 @@ datatype
 line = "life is too short\nYou need python"
 ```
 2. 연속된 ''', """
-```
+```python
 line = """
 life is too short
 You need python
