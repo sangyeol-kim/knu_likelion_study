@@ -4,6 +4,7 @@
 
 - Python (3)
 - Django
+- Algorithm (C++, Python, Java 중 택1)
 
 ## 운영진
 
