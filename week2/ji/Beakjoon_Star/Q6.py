@@ -19,3 +19,8 @@ for i in range(num, 0, -1) :
     for j in range(0, i*2-1) :
         print("*", end ="")
     print()
+
+'''O(n)'''
+for i in range(num, 0, -1) :
+    print(' ' * (num-i), end = '')
+    print('*' * (i*2-1))

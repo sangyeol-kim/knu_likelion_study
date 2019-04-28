@@ -29,3 +29,9 @@ for i in range(num*2-1) :
         for k in range(((num*2-1)-i)*2-1) :
             print("*", end = "")
     print()
+
+'''O(n)'''
+
+for i in (list(range(1,num)) + list(range(num,0,-1))):
+    print(' '*(num-i)+'*'*(i*2-1))
+
