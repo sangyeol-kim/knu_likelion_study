@@ -15,3 +15,7 @@ for i in range(1, num+1) :
     for j in range(i) :
         print("*", end = "")
     print()
+
+''' O(n) '''
+for i in range(1, num+1) :
+    print("*" * i)
