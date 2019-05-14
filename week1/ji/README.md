@@ -1,3 +1,10 @@
+# 1주차
+
+## - 파이썬 공부 및 정리
+## - 보너스문제
+- Algithm1.java
+--------------------
+
 # 파이썬 정리
 
 > [미운코딩오리새끼](https://www.youtube.com/playlist?list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww) 유투브 강좌를 이용해 파이썬의 기본적인 문법을 정리한 노트입니다.
